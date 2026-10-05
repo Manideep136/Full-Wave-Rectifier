@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-F_Cu.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-B_Cu.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-F_Paste.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-B_Paste.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-F_Mask.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-B_Mask.gbr'.
+Plotted to 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\Full WaveRectfier\GERBER\Full WaveRectfier-job.gbrjob'.
+Info: Done.
